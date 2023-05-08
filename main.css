@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+
+
+.up-side {
+  
+    width: 1152px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background: #F5F5F6;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.basliqlar {
+    list-style-type: none;
+    display: flex;
+    margin: 0 10px;
+}
+.menuitem {
+    margin: 0 10px;
+}   
+.down {
+    width: 900px;
+    margin: 60px auto;
+}
+
+.down-side {
+margin-right: 312;
+width: 587px;
+height: 32px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.text {
+    width: 120px;
+    height: 28px;
+    margin-top:33px;
+    font-family: 'Roboto';
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    color: #9F9F9F;
+}
+.active1 {
+width: 64px;
+height: 30px;
+
+background: #833AE0;
+border-radius: 3px 0px 0px 3px;
+}
+.cari {
+display: flex;
+}
+.converter-div {
+    display: flex;
+}
