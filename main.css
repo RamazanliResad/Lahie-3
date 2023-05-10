@@ -36,14 +36,11 @@
 margin-right: 312;
 width: 587px;
 height: 32px;
-
-
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
-
 color: #000000;
 }
 .text {
@@ -56,16 +53,70 @@ color: #000000;
     align-items: center;
     color: #9F9F9F;
 }
-.active1 {
+.active {
 width: 64px;
 height: 30px;
-
 background: #833AE0;
 border-radius: 3px 0px 0px 3px;
 }
 .cari {
 display: flex;
+height: 60px;
+
 }
 .converter-div {
     display: flex;
+}
+.inp-left {
+  width: 259px;
+ }
+.right-converter {
+  margin-left: 123px;
+}
+.active1 {
+   width: 66px;
+   height: 30px;
+}
+.active2 {
+    width: 66px;
+    height: 30px;
+    }
+.active3 {
+    width: 66px;
+    height: 30px;
+}
+
+
+.input-text {
+    height: 102px;
+    border: 1px solid gray;
+
+}
+.inp-left{
+    color: black;
+    border: 1px solid white;  
+    font-size: 36px;
+    margin-left: 3px;
+}
+.p-left{
+    margin-top: 35px;
+    color: gray; 
+    font-size: small;
+    margin-left: 3px;
+}
+.inp-right {
+    width: 259px;
+    margin-left: 3px;
+}
+.inp-right{
+    color: black;
+    border: 1px solid white;  
+    font-size: 36px;
+}
+
+.p-right{
+    margin-top: 35px;
+    color: gray; 
+    font-size: small;
+    margin-left: 3px;
 }
